@@ -3,4 +3,4 @@ This project compares the power output of a fixed solar panel and a tracking pan
 ## Contents
 
 - SolarPanel_Analysis_v0.4-1.vi: LabVIEW file for data acquisition
-- labview_screenshot.jpg: Visual of the LabVIEW front panel and block diagram
+- labview_screenshot.jpeg: Visual of the LabVIEW front panel and block diagram
